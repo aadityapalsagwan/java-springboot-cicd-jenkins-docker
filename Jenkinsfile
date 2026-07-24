@@ -3,7 +3,7 @@ pipeline {
     
     environment {
         DOCKER_IMAGE_NAME = 'expensesapp'
-        REPO_URL = 'https://github.com/abhashducat93/docker-java-live-app.git'
+        REPO_URL = 'https://github.com/aadityapalsagwan/java-springboot-cicd-jenkins-docker.git'
     }
     
     stages {
