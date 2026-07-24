@@ -54,5 +54,8 @@ Open your web browser and navigate to `http://localhost:8080`.
 ## Contributions
 Contributions are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or create a pull request.
 
+## Author
+**Name:** **Aaditya Pal**
+
 ## License
 This project is licensed under the MIT License.
